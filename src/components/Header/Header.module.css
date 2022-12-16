@@ -1,0 +1,19 @@
+.header{
+  grid-area: header;
+  background-color: rgb(20, 122, 255);
+}
+
+.header img{
+  width: 50px;
+  margin-left: 50px;
+}
+
+.loginBlock{
+  float: right;
+  color: white;
+ 
+}
+
+.loginBlock a{
+  color: white;
+}

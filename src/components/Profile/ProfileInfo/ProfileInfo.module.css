@@ -1,0 +1,20 @@
+
+.descriptionBlock{
+    padding: 10px;
+}
+
+.profileInfoAva img{
+    width: 150px;
+    border-radius: 50%;
+    border: 5px solid white;
+    margin: 20px;
+}
+
+img{
+
+    outline:none;
+}
+
+.statusContainer{
+    margin: 0, auto
+}
